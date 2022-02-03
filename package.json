@@ -1,0 +1,27 @@
+{
+  "name": "react-native-collection-tabs-navigation",
+  "version": "0.0.1",
+  "description": "create collection tabs navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanengineer/react-native-collection-tabs-navigation.git"
+  },
+  "dependencies": {
+    "react-navigation": "^4.4.4"
+  },
+  "keywords": [
+    "custom-navigation",
+    "collection-tabs",
+    "react-navigation"
+  ],
+  "author": "sanengineer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanengineer/react-native-collection-tabs-navigation/issues"
+  },
+  "homepage": "https://github.com/sanengineer/react-native-collection-tabs-navigation#readme"
+}
